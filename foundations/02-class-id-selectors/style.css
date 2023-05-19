@@ -1,0 +1,23 @@
+p {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#numberTwo{
+    color:blue;
+    font-size: 36px;
+}
+
+#numberFour{
+    font-weight: bold;
+    font-size: 24px;
+    background-color: lime;
+}
+
+.cooler{
+    font-size: 24px;
+}

@@ -1,0 +1,11 @@
+.serif-text{
+    font-size: 28px;
+    font-family: "Times New Roman", "Sans-Serif"
+}
+.black-bg{
+    background-color:black;
+    color:white;
+}
+.yellow-bg{
+    background-color:yellow;
+}
